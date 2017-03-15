@@ -1,0 +1,60 @@
+Arme
+Dague
+28 72 
+Arme
+Epee
+45 55
+Arme
+Mjolnir
+74 26
+Arme
+Baton
+33 67 
+Arme
+Arc
+35 65
+Bouclier
+Bouclier En Cuir
+30 70
+Bouclier
+Bouclier De Bronze
+50 50
+Bouclier
+Ecu
+70 30
+Remede
+Bandage
+30 70
+Remede
+Potion Revitalisant
+50 50
+Remede
+Potion Magique
+70 30
+SortAtt
+BouleDeFeu
+50 50
+SortAtt
+Coup Eteincelant
+30 70
+SortAtt
+Pluie De Foudre
+80 20
+SortDef
+Mur de Vent
+30 70
+SortDef
+Mur de Terre
+50 50
+SortDef
+Teleportation
+80 20
+SortSoin
+Purge
+30 70
+SortSoin
+Lumi¨¨re Divine
+50 50
+SortSoin
+Resurection
+80 20
