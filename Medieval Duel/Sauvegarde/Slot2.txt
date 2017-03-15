@@ -1,0 +1,9 @@
+Champion
+Guerrier
+51 28 11 11 1 2
+Arme
+Mjolnir
+74 26
+Bouclier
+Ecu
+0 30

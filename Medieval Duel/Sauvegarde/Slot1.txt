@@ -1,0 +1,9 @@
+Luca
+Guerrier
+51 28 11 11 1 2
+Arme
+Dague
+28 72
+Arme
+Epee
+45 55
